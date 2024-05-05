@@ -26,7 +26,7 @@ export default async function Home() {
       <HeroSection />
       <Experience />
       <Skills />
-      {/* <Projects /> */}
+      <Projects />
       <Education />
     </>
   )
