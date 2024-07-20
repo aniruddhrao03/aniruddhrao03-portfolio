@@ -24,6 +24,18 @@ export const projectsData = [
         demo: '',
         image: travel,
     },
+
+    {
+        id: 3,
+        name: "Candle Snuffer Robot",
+        description: "The Candle Snuffer Robot integrates ultrasonic and gyro sensors for responsive flame detection and snuffer operation. Designed using \textbf{SolidWorks}, the project features a precision-engineered gear and ladder mechanism, enabling accurate height adjustments of the snuffer plate for efficient candle extinguishing.",
+        tools: ["RobotC", "SolidWorks", "3D Printing"],
+        role: "Mechanical Design Engineer",
+        code: "",
+        demo: "",
+        image: travel 
+      }
+      
 ];
 
 
